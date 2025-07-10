@@ -36,7 +36,7 @@ webpack-template/
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/webpack-template.git
+git clone https://github.com/singharyan006/webpack-template.git
 cd webpack-template
 ```
 
